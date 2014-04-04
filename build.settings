@@ -1,0 +1,13 @@
+settings=
+{
+	orientation = 
+	{
+		default = "landscapeRight",
+		supported = { "landscapeRight", "landscapeLeft" },
+	},
+	
+	androidPermissions = {
+  		"android.permission.INTERNET",
+  		"android.permission.VIBRATE",
+  	},		
+}
